@@ -1,0 +1,2 @@
+(this["webpackJsonp@atoxswap-project/atoxswap-frontend"]=this["webpackJsonp@atoxswap-project/atoxswap-frontend"]||[]).push([[54],{902:function(t,a,p){"use strict";p.r(a),a.default=p.p+"static/media/fr-FR.7f30953c.po"}}]);
+//# sourceMappingURL=54.913f0c1c.chunk.js.map
